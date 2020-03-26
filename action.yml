@@ -1,0 +1,6 @@
+name: Kaggle Competition Actions
+description: Kaggle Competition Actions
+author: kjankov
+runs:
+  using: 'python'
+  main: 'main.py'
